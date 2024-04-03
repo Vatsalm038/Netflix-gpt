@@ -18,7 +18,12 @@
 - updat profile Api
 - Update photo
 - fetch movies from tmdb
-
+- restrict routing to the browse page
+- if user is logged in then redirect to browse page only
+- Bug Fix : Redirect to login if not logged in / 
+- If loggin in then redirect to browse page only
+- Unsubscribed to the onauth state change callback
+- Add hardcode value to constants file
 
 # Features
 Login/Signup
