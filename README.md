@@ -2,6 +2,23 @@
 
 - create react app
 - configure tailwind css
+- Header
+- Login From
+- Signup Form
+- Routing
+- Form Validation 
+- useRef hook
+- Build Authentication
+- Firebase setup
+- Deploying the app to production
+- Create signup user in firebase
+- Once the user is logged in add the data to redux store
+- Redux store
+- Implemented signout
+- updat profile Api
+- Update photo
+- fetch movies from tmdb
+
 
 # Features
 Login/Signup
