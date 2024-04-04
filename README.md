@@ -24,6 +24,25 @@
 - If loggin in then redirect to browse page only
 - Unsubscribed to the onauth state change callback
 - Add hardcode value to constants file
+- Register tmdb api and get access tokens for your app
+- get data from tmdb now playing movies 
+- create custom hook and put browse code
+- create custook hook for now playing movies
+- update store with movie data
+- planning for main and secondary container
+- fetch data for trailer video
+- update store with trailer video data
+- embedded the youtube video and make it autplay and mute
+- added tailwind classes to make maintainer look awesome
+- 
+
+# Browse Page
+- MainContainer
+    - Video Background
+    - Video title
+- Seconfary Container
+    - Movie List * n
+    - Cards * n
 
 # Features
 Login/Signup
