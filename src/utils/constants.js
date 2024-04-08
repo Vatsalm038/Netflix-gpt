@@ -13,3 +13,10 @@ export const API_OPTIONS = {
       "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3NmRlYzYzMWY4MGY1YTg2YWFjNjljMTk2NWFiM2JhZiIsInN1YiI6IjY2MGQxYTEwOTVjZTI0MDE3ZDZlZWIzNCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.jtMkanlFrmLq0kqL7rOdlyiYf0Mxcn2uLdAKspfUfNs",
   },
 };
+
+export const IMG_CDN = "https://image.tmdb.org/t/p/w300";
+export const SUPPORTED_LANGUAGES = [
+  { identifier: "en", name: "English" },
+  { identifier: "hindi", name: "Hindi" },
+  { identifier: "spanish", name: "Spanish" },
+];
