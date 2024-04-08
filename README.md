@@ -34,6 +34,23 @@
 - update store with trailer video data
 - embedded the youtube video and make it autplay and mute
 - added tailwind classes to make maintainer look awesome
+-  {/* 
+     movieList- Popular
+       - movie cards [n] horizontal rows.
+     movieList- Trending
+     movieList - NowPlaying movies
+     movieList - Different genres
+
+*/}
+- Added secondar container
+- added movieList
+- added movie card
+- add custoom hook of popularPlaying movies
+- GPT search feature 
+- gpt search bar and search page
+- (Big) made app multilingual
+- english , hindi , spanish 
+- Integrate gpt apis
 - 
 
 # Browse Page
