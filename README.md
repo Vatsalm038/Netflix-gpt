@@ -51,7 +51,13 @@
 - (Big) made app multilingual
 - english , hindi , spanish 
 - Integrate gpt apis
-- 
+- gpt limit exceeded ? switched to cohere api
+- cohere free readable stream apis fetching
+- getting results and converting to arrat
+- make moviename and results store for this gpt results
+- add movie cards for it - 
+- adding memoization and security for the project.
+- Memoization to stop making api calls again & again
 
 # Browse Page
 - MainContainer
