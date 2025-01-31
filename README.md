@@ -51,6 +51,8 @@
 - adding memoization and security for the project.
 - Memoization to stop making api calls again & again
 
+## Update in ENV config
+REACT_APP_OPENAI_KEY 
 
 # Getting Started with Create React App
 
@@ -59,6 +61,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
 
 ### `npm start`
 
